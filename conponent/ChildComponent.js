@@ -5,7 +5,7 @@ import MainComponent from "./MainComponent";
 const App = () => {
   return (
     <View>
-      <MainComponent name="Southavy Sengdavong" />
+      <MainComponent name="Miss Philavanh DUANGBOUDDY" />
       <MainComponent name="2CW1" />
     </View>
   );
